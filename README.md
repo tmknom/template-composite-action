@@ -4,6 +4,28 @@ Template repository for Composite Action.
 
 <!-- actdocs start -->
 
+## Description
+
+Template repository for creating Composite Action with GitHub Actions.
+
+## Usage
+
+Write usage for your Composite Action.
+
+```yaml
+  steps:
+    - name: Template
+      uses: tmknom/template-composite-action@v0
+```
+
+## Inputs
+
+N/A
+
+## Outputs
+
+N/A
+
 <!-- actdocs end -->
 
 ## Permissions

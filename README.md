@@ -6,6 +6,10 @@ Template repository for Composite Action.
 
 Template repository for creating Composite Action with GitHub Actions.
 
+## Permissions
+
+N/A
+
 ## Release notes
 
 See [GitHub Releases][releases].

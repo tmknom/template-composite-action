@@ -8,8 +8,10 @@ Template repository for creating Composite Action with GitHub Actions.
 
 ## Release notes
 
-See [Releases](https://github.com/tmknom/template-composite-action/releases).
+See [GitHub Releases][releases].
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](/LICENSE) for full details.
+Apache 2 Licensed. See [LICENSE](LICENSE) for full details.
+
+[releases]: https://github.com/tmknom/template-composite-action/releases

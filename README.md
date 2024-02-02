@@ -2,9 +2,9 @@
 
 Template repository for Composite Action.
 
-## Description
+<!-- actdocs start -->
 
-Template repository for creating Composite Action with GitHub Actions.
+<!-- actdocs end -->
 
 ## Permissions
 

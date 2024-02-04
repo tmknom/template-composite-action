@@ -36,6 +36,10 @@ N/A
 
 N/A
 
+## Related projects
+
+N/A
+
 ## Release notes
 
 See [GitHub Releases][releases].

@@ -17,7 +17,7 @@ runs:
 
   steps:
     - name: Run
-      shell: bash
       run: |
         set -x
         echo "Write steps"
+      shell: bash
